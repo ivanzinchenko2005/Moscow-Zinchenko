@@ -25,3 +25,5 @@ def search_events(place, actor):
         writer.writerow(["event", "damage_profit"])
         writer.writerows(answer)
     con.close()
+
+print('AMOGUS')
